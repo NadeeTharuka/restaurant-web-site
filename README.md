@@ -39,5 +39,3 @@ The footer section provides additional information:
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README file.
 
-## License
-This project is licensed under the MIT License.
