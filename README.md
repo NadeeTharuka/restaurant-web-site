@@ -35,18 +35,7 @@ The footer section provides additional information:
 - Follow Us: Stay updated by following us on social media platforms.
 - About Us: Learn more about our restaurant and our commitment to providing quality food and excellent service.
   
-## Getting Started
 
-To get started with running the project locally, follow these steps:
-
-1. Clone this repository to your local machine:
-```
-git clone https://github.com/ImeshaDilshani/tasty-react
-```
-2. Navigate to the terminal
-```
-npm start
-```
 ## Contributing
 We welcome contributions from the community! If you'd like to contribute to the project, please follow the guidelines outlined in the Contributing section of the README file.
 
