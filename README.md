@@ -1,6 +1,6 @@
 # Restaurant Website
 
-Welcome to our restaurant website project! This project is built using React, providing a modern and interactive platform for showcasing services. Our website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
+Welcome to my restaurant website project! This project is built using React, providing a modern and interactive platform for showcasing services. my website is designed to be fully responsive, ensuring a seamless experience across various devices and screen sizes.
 
 ## See here
 
@@ -9,11 +9,11 @@ To explore the live version of the website, visit [here](https://tasty-react.ver
 ![Screenshot_2-3-2024_211452_tasty-react vercel app](https://github.com/ImeshaDilshani/tasty-react/assets/93858302/cce47142-9e9a-42cb-85ac-3703c70e5a38)
 
 ## Navbar
-The navigation bar provides easy access to different sections of our website:
+The navigation bar provides easy access to different sections of my website:
 
 - **Home**: Navigate back to the home page to explore our offerings.
 - **About**: View our restaurant website.
-- **Services**: Learn more about the services we offer, including fast deliveries.
+- **Services**: Learn more about the services offer, including fast deliveries.
 - **Testimonials**: Read testimonials from our satisfied customers.
 - **Contact**: Find our restaurant's location, contact details, and hours of operation.
 
